@@ -1,0 +1,20 @@
+{
+  "name": "express-and-njs",
+  "version": "1.0.0",
+  "description": "intro to backend ",
+  "homepage": "https://github.com/emirbeser/Into-to-the-backend#readme",
+  "bugs": {
+    "url": "https://github.com/emirbeser/Into-to-the-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emirbeser/Into-to-the-backend.git"
+  },
+  "license": "ISC",
+  "author": "Emir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
